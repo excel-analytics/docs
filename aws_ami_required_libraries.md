@@ -2,7 +2,7 @@
 
 ```
 # ML
-ipython[notebook]
+jupyter
 numpy
 scipy
 pandas
@@ -13,4 +13,6 @@ xgboost
 TensorFlow
 # AWS
 boto3
+# other
+tqdm
 ```
