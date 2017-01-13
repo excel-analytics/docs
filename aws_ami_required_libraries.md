@@ -15,4 +15,5 @@ TensorFlow
 boto3
 # other
 tqdm
+filechunkio
 ```
